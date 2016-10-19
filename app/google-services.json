@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1087926089045",
+    "project_id": "firebase-activityrecognition"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087926089045:android:4ffd701a8e64ff19",
+        "android_client_info": {
+          "package_name": "ample.minor.activityrecognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtqlL7CPZ2Y9lWPQnaS7rNPwDYMKDA8s8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-85936103-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
